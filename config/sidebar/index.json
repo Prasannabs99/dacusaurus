@@ -2,6 +2,11 @@
   "label": "Docs Sidebar",
   "items": [
     {
+      "title": "Tina.io",
+      "href": "https://tina.io/",
+      "_template": "link"
+    },
+    {
       "document": "docs/intro.mdx",
       "_template": "doc"
     },
@@ -72,11 +77,6 @@
         }
       ],
       "_template": "category"
-    },
-    {
-      "title": "Tina.io",
-      "href": "https://tina.io/",
-      "_template": "link"
     }
   ]
 }
