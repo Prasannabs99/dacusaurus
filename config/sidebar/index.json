@@ -2,10 +2,6 @@
   "label": "Docs Sidebar",
   "items": [
     {
-      "document": "docs/intro.mdx",
-      "_template": "doc"
-    },
-    {
       "title": "Tutorial - Basics",
       "link": "generated",
       "items": [
@@ -31,6 +27,10 @@
         }
       ],
       "_template": "category"
+    },
+    {
+      "document": "docs/intro.mdx",
+      "_template": "doc"
     },
     {
       "title": "Tutorial - Extras",
